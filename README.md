@@ -6,7 +6,8 @@ sentiment analysis
 Introduction
 Build an end-to-end sentiment classification system from scratch. The system accepts a movie review as input and classifies it as either positive or negative. There are three main steps:
 
-# Preprocess the data - Split the data into train and test sets, cleaning dataset, tokenize, stem words, create bag-of-words features, etc.
+# Preprocess the data -
+Split the data into train and test sets, cleaning dataset, tokenize, stem words, create bag-of-words features, etc.
 Models - Create and experiment with different models: Naïve Bayes classification algorithm, Linear Model algorithm, SVM algorithm, etc 
 Evaluation - Compare the performances of the models and outline steps to make the chosen model do better.
 
@@ -27,3 +28,5 @@ Some of the NLP libraries require additional data for performing tasks like stop
 
 nltk.download("all")
 
+# ###
+fill free to improve this code
