@@ -53,7 +53,7 @@ class PreprocessingDataSet:
         # word tag and its meaning  J is for adjective,
         # V is for verb
         allowed_word_types = ["J", "V"]
-        print("\n70 30 verb adverb adjective")
+        print("\n70 30 verb adjective")
 
         for p in short_pos.split('\n\n\n'):
             documents.append((p, "pos"))
